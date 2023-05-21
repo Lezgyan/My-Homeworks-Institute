@@ -1,0 +1,1 @@
+(echo "Hello.cpp" | entr g++ Hello.cpp -o outputbinary &)
